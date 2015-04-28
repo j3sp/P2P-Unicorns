@@ -5,3 +5,5 @@
 .DS_Store
 /build
 /captures
+PhotoShare/.idea/
+app/*.iml
